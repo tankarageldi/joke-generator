@@ -4,7 +4,7 @@ App for generating jokes :D.
 
 ## Usage
 
-To start the server, run the following :
+To start the server, run the following commands in your terminal:
 
 - npm i
 - nodemon index.js
