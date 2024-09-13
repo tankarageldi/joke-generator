@@ -1,13 +1,13 @@
 # joke-generator
 
-App for generating jokes :D. 
+App for generating jokes :D.
 
-# Usage
+## Usage
 
-To start the server, run the following : 
+To start the server, run the following :
 
 - npm i
 - nodemon index.js
-- go to http://localhost:5000/
+- go to <http://localhost:5000/>
 - hover on the card to see the rest of the joke.
 - click on the button to get another joke.
