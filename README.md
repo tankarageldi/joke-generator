@@ -1,2 +1,13 @@
 # joke-generator
-app thats giving random jokes, using http requests and JokeAPI
+
+App for generating jokes :D. 
+
+# Usage
+
+To start the server, run the following : 
+
+- npm i
+- nodemon index.js
+- go to http://localhost:5000/
+- hover on the card to see the rest of the joke.
+- click on the button to get another joke.
